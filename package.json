@@ -1,0 +1,21 @@
+{
+  "name": "unit-tes-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "nodejs",
+    "jest"
+  ],
+  "author": "Bima Agung Setya Budi",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.10",
+    "babel-jest": "^29.0.1",
+    "jest": "^29.0.1"
+  }
+}
